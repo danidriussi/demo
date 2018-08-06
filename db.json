@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Zelda": [
+    { "id": 1, "title": "Ocarina of Time" },
+    { "id": 2, "title": "Majora's Mask" },
+    { "id": 3, "title": "Breath Of The Wild" }
+  ]
 }
